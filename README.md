@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently students on [**@ummcampus**](https://ummcampus.com)
-- 😄 I'am I am an informatics engineering student
+- 😄 I'am an informatics engineering student
 - ⚡ Fun fact I don't like spicy
 
 
