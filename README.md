@@ -19,27 +19,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently students on [**@ummcampus**](https://ummcampus.com)
-- 😄 I'am an informatics engineering student
-- ⚡ Fun fact I don't like spicy
+- I am a student at the University of Muhammadiyah Malang, currently in the early stages of my journey in the world of informatics. As a beginner, I am actively learning a variety of programming languages, including HTML, JavaScript, C, C++, and Python. I am highly motivated and enthusiastic about exploring new concepts, developing my technical skills, and expanding my understanding of computer science and information technology. I enjoy taking on challenges, experimenting with new ideas, and continuously improving myself in this ever-evolving field.
 
 
 ##### yoho my skill
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,c,cpp,py,vscode&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,c,py,vscode&theme=light)](https://skillicons.dev)
 
 ##### connect with me
 [![My Skills](https://skillicons.dev/icons?i=gmail,discord,twitter,robloxstudio&theme=light)](https://skillicons.dev) ![https://instagram.com/allumaaa](https://skillicons.dev/icons?i=instagram&theme=light)
 
 have fun guyss!!!!
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-</picture>
-
-###
 
 
 
