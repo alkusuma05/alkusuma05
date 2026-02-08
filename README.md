@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- I am a student at the University of Muhammadiyah Malang, currently in the early stages of my journey in the world of informatics. As a beginner, I am actively learning a variety of programming languages, including HTML, JavaScript, C, C++, and Python. I am highly motivated and enthusiastic about exploring new concepts, developing my technical skills, and expanding my understanding of computer science and information technology. I enjoy taking on challenges, experimenting with new ideas, and continuously improving myself in this ever-evolving field.
+I am a student at the University of Muhammadiyah Malang, currently in the early stages of my journey in the world of informatics. As a beginner, I am actively learning a variety of programming languages, including HTML, JavaScript, C, C++, and Python. I am highly motivated and enthusiastic about exploring new concepts, developing my technical skills, and expanding my understanding of computer science and information technology. I enjoy taking on challenges, experimenting with new ideas, and continuously improving myself in this ever evolving field.
 
 
 ##### yoho my skill
